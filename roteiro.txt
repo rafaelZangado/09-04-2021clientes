@@ -1,0 +1,41 @@
+CLIENTES/VIEWS/ CONTATOS
+clientes/views/contatos/index.php
+ 	clientes/views/contatos/visualizar.php
+===================================
+CLIENTES/VIEWS/ CONTATOS_AGENDAMENTOS	(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_BI		(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_COBRANCAS_RECEBER (analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_OCORRENCIAS 	(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_PERGUNTAS 	(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_PESSOAS 	(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_RESPOSTAS 	(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CONTATOS_TIPOS 		(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ CRm			(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ eventos			(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ funcionarios 		(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ funis 			(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ funis_pessoas 		(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ historicos 		(analisado mas nao foi encontrado nenhum arquivo grave para identar )
+===================================
+CLIENTES/VIEWS/ index
+	clientes/views/index/aniversariantes.pesquisar.php
+ 	clientes/views/index/aniversariantes.php
+	clientes/views/index/bloqueios.php
+ 	clientes/views/index/central.checkins.php
+	clientes/views/index/central.inicio.novo.php
+
+
+clientes/views/index/central.inicio.novo.php <--- verificar arquivo critico. 
